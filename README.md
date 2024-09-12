@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Curso de Javascript
 Curso de javascript moderno con 20 proyectos
 
 
