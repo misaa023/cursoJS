@@ -10,7 +10,7 @@ Curso de javascript moderno con 20 proyectos
 
 > En cada carpeta van a encontrar una carpeta llamada JS en la cual contiene los ejemplos realizados de cada clase.
 
-## -Cada clase va a estar en una carpeta diferente.
+## - Cada clase va a estar en una carpeta diferente.
 
 [![](https://visitcount.itsvg.in/api?id=CursoJS&icon=2&color=0)](https://visitcount.itsvg.in)
 
