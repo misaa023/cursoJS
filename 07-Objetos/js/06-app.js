@@ -22,6 +22,7 @@ console.log(auto1.marca);
 
 console.log(auto2.color);
 
+// * Destructing de objetos anidados Multiples
 const producto = {
     nombre: 'Monitor 20 Pulgadas',
     precio: 300,
