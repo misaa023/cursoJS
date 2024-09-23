@@ -16,7 +16,7 @@ const carrito = [
 // * la diferencia con foreach es que map regresa un nuevo array
 
 const nuevoArreglo = carrito.map((producto) => {
-    return `${producto.nombre} - Precio: ${producto.precio}`;
+    return `${producto.nombre} -- Precio: ${producto.precio}`;
 });
 
 console.table(nuevoArreglo);
